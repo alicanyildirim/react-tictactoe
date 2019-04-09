@@ -19,6 +19,7 @@ class App extends Component {
           >
             Learn React
           </a>
+            <h1>Wow it works. How convinent.</h1>
         </header>
       </div>
     );
